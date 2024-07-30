@@ -3,9 +3,7 @@
 *project name-( frontend or backend )-language*
 
 **Example**
-```
-read-csv-backend-python
-```
+`read-csv-backend-python`
 
 ## How to write README in Repositories
 
