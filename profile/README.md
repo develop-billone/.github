@@ -1,6 +1,6 @@
 ## Create Name Repositories
 
-*project name-( frontend or backend )-language*
+*project name-( frontend or backend )-( language or framework )*
 
 **Example**
 
