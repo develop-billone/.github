@@ -11,7 +11,7 @@ read-csv-backend-python
 
 **Project setup**
 - package intall
-- python project `Creat venv for pip install(requirements.txt)`
+- python project `Create venv for pip install(requirements.txt)`
 - Java script(backend) recomend `npm`
 - Java script(frontend) recomend `yarn`
 
