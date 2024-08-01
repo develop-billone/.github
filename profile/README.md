@@ -29,7 +29,7 @@
 
 ## Write Git Commit Message
 - `build:` อะไรก็ตามที่มันเกี่ยวกับการ Build (เช่น คำสั่ง npm หรือการเพิ่ม External Dependencies)
-- `chore:` อะไรก็ตามที่ไม่เห็นจากข้างนอก (เช่น การปรับ .gitignore หรือ .prettierrc file เป็นต้น)
+- `chore:` อะไรก็ตามที่ไม่เห็นจากข้างนอก (เช่น การปรับ .gitignore หรือ .prettierrc file)
 - `feat:` A new feature
 - `fix(feature):` A bug fix
 - `docs:` อะไรก็ตามที่เกี่ยวกับการปรับเอกสาร
