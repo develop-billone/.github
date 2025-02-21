@@ -16,9 +16,8 @@
 
 **Recomend stack version**
 
-*Example: Python Project*
-
-- python version 3.10.11
+- python require version 3.10.11
+- node.js require v20 or higther
 
 **Document**
 
